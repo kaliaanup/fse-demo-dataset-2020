@@ -8,6 +8,7 @@ unzip the dataset to find the following folders.
 
 Please cite our paper.
 
+'''
 @inproceedings{Kalia+FSE+2020,
 author={Anup K. Kalia, Chen Lin, Jin Xiao, Saurabh Sinha, John Rofrano, Maja Vukovic, Debasish Banerjee},
 title={Mono2Micro: An AI-based Toolchain for Evolving Monolithic Enterprise Applications to a Microservice Architecture },
@@ -17,3 +18,4 @@ publisher={ACM},
 address={Sacramento,CA},
 pages={1--5},
 }
+'''
